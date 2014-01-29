@@ -1,2 +1,7 @@
 owen added this
+<<<<<<< HEAD
 more text 
+=======
+
+edit to owen file
+>>>>>>> f0ec69f002eaa76f3b58e065bebfc7e7fbac01d9
